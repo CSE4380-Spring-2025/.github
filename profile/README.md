@@ -7,4 +7,6 @@
 
 [Colonial Pipeline Ransomware Attack](https://en.wikipedia.org/wiki/Colonial_Pipeline_ransomware_attack)
 
-[Office of Personnel Management Data Breach](https://en.wikipedia.org/wiki/Office_of_Personnel_Management_data_breach)
+[Office of Personnel Management Data Breach](https://en.wikipedia.org/wiki/Office_of_Personnel_Management_data_breach) by the [Jiangsu State Security Department](https://en.wikipedia.org/wiki/Jiangsu_State_Security_Department)
+
+[2017 Equifax Data Breach](https://en.wikipedia.org/wiki/2017_Equifax_data_breach)
