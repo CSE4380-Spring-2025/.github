@@ -12,4 +12,4 @@
 [2017 Equifax Data Breach](https://en.wikipedia.org/wiki/2017_Equifax_data_breach)
 
 ## Standards and Papers
-[DATA ENCRYPTION STANDARD (DES)](../Standards/fips46-3.pdf)
+[DATA ENCRYPTION STANDARD (DES)](https://github.com/CSE4380-Spring-2025/Standards/blob/main/fips46-3.pdf)
