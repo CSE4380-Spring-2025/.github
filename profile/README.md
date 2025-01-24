@@ -15,3 +15,5 @@
 [DATA ENCRYPTION STANDARD (DES)](https://github.com/CSE4380-Spring-2025/Standards/blob/main/fips46-3.pdf)
 
 [Recommendation for Block Cipher Modes of Operation (NIST 800-38A)](https://github.com/CSE4380-Spring-2025/Standards/blob/main/nistspecialpublication800-38a.pdf)
+
+[Hash Message Authentication Code (HMAC)](https://github.com/CSE4380-Spring-2025/Standards/blob/main/rfc2104.pdf)
