@@ -12,6 +12,8 @@
 
 [Office of Personnel Management Data Breach](https://en.wikipedia.org/wiki/Office_of_Personnel_Management_data_breach) by the [Jiangsu State Security Department](https://en.wikipedia.org/wiki/Jiangsu_State_Security_Department)
 
+[The OPM Data Breach: How the Government Jeopardized Our National Security for More than a Generation](https://github.com/CSE4380-Spring-2025/Papers/blob/main/The-OPM-Data-Breach-How-the-Government-Jeopardized-Our-National-Security-for-More-than-a-Generation.pdf)
+
 [2017 Equifax Data Breach](https://en.wikipedia.org/wiki/2017_Equifax_data_breach)
 
 ## Standards and Papers
